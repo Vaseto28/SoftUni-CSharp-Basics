@@ -9,3 +9,5 @@ In this repository you can find all my exercises from Programming Basics with C#
 [3. Conditional statements - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20-%20Lab)
 
 [4. Conditional statements - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20-%20Exercise)
+
+[5. Conditional statements advanced - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/ConditionalStatementsAdvanced-Lab)
