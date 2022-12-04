@@ -15,3 +15,5 @@ In this repository you can find all my exercises from Programming Basics with C#
 [6. Conditional statements advanced - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20advanced%20-%20Exercise/ConditionalStatements-Exercise)
 
 [7. For loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Lab)
+
+[8. For loop - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Exercise)
