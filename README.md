@@ -21,3 +21,7 @@ In this repository you can find all my exercises from Programming Basics with C#
 [9. While loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/While%20loop%20-%20Lab)
 
 [10. While loop - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/While%20loop%20-%20Exercise)
+
+[11. Nasted loops - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Nasted%20loops%20-%20Lab)
+
+[12. Nasted loops - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Nasted%20loops%20-%20Exercise)
