@@ -16,7 +16,7 @@ Here you can find all of my solutions from Programming Basics with C# course in 
 
 [07. For loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Lab)
 
-[8. For loop - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Exercise)
+[08. For loop - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Exercise)
 
 [9. While loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/While%20loop%20-%20Lab)
 
