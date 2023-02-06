@@ -8,7 +8,7 @@ Here you can find all of my solutions from Programming Basics with C# course in 
 
 [03. Conditional statements - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20-%20Lab)
 
-[4. Conditional statements - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20-%20Exercise)
+[04. Conditional statements - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20-%20Exercise)
 
 [5. Conditional statements advanced - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/ConditionalStatementsAdvanced-Lab)
 
