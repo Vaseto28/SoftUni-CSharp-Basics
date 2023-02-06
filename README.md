@@ -10,7 +10,7 @@ Here you can find all of my solutions from Programming Basics with C# course in 
 
 [04. Conditional statements - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20-%20Exercise)
 
-[5. Conditional statements advanced - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/ConditionalStatementsAdvanced-Lab)
+[05. Conditional statements advanced - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/ConditionalStatementsAdvanced-Lab)
 
 [6. Conditional statements advanced - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20advanced%20-%20Exercise/ConditionalStatements-Exercise)
 
