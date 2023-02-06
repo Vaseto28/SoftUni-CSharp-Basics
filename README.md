@@ -14,7 +14,7 @@ Here you can find all of my solutions from Programming Basics with C# course in 
 
 [06. Conditional statements advanced - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/Conditional%20statements%20advanced%20-%20Exercise/ConditionalStatements-Exercise)
 
-[7. For loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Lab)
+[07. For loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Lab)
 
 [8. For loop - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Basics/tree/main/For%20loop%20-%20Exercise)
 
